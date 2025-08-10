@@ -1,8 +1,6 @@
 # Calirfonia_Price_Prediction_Model
 
-Of course. Here is the complete content for your `README.md` file.
 
-Just copy everything below and paste it into your `README.md` file.
 
 -----
 
